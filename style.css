@@ -1,6 +1,10 @@
 
 
 body {
-    background-color:grey;
+    background-image: url(./assets/images/backgroundimg.jpg);
+    background-size: cover;
     
+}
+.nav {
+    height: 60px;
 }
